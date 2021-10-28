@@ -6,6 +6,7 @@ require (
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 	go.uber.org/zap v1.10.0
 	google.golang.org/grpc v1.41.0
+	google.golang.org/protobuf v1.27.1
 )
 
 require (
@@ -16,5 +17,4 @@ require (
 	golang.org/x/sys v0.0.0-20210510120138-977fb7262007 // indirect
 	golang.org/x/text v0.3.6 // indirect
 	google.golang.org/genproto v0.0.0-20211027162914-98a5263abeca // indirect
-	google.golang.org/protobuf v1.27.1 // indirect
 )
